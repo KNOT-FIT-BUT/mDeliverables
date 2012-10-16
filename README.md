@@ -1,7 +1,8 @@
 Deliverables
 ============
 
-Pro beh je vyzadovana instalovana knihovna RRSlib.
+Pro běh je vyžadována knihovna RRSlib.
+
 
 
  
